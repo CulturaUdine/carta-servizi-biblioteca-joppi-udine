@@ -1,8 +1,12 @@
 
-.. _h352d202a71b4a625e186c3c334317b:
+.. _h761ab401543201137a78553757464:
 
-\ |IMG1|\ Carta Servizi Civici Musei del Comune di Udine
-########################################################
+\ |IMG1|\ ##########
+
+.. _h7e2866711d3c66273432356272576d5b:
+
+Carta Servizi Civici Musei del Comune di Udine
+##############################################
 
 FINALITÀ, MISSIONE E CARATTERISTICHE DEL SERVIZIO
 
@@ -16,13 +20,13 @@ FINALITÀ, MISSIONE E CARATTERISTICHE DEL SERVIZIO
 Che cos’è la carta dei servizi
 ==============================
 
-    La Carta è lo strumento fondamentale con il quale si attua il principio di trasparenza, cui è tenuta la Pubblica Amministrazione in base alla Costituzione Italiana e a normative successive.
+La Carta è lo strumento fondamentale con il quale si attua il principio di trasparenza, cui è tenuta la Pubblica Amministrazione in base alla Costituzione Italiana e a normative successive.
 
-    Descrive finalità, modi, criteri e strutture attraverso le quali il servizio viene attuato, reciproci diritti e doveri, modalità e tempi di partecipazione, procedure di controllo che l’utente ha a sua disposizione.
+Descrive finalità, modi, criteri e strutture attraverso le quali il servizio viene attuato, reciproci diritti e doveri, modalità e tempi di partecipazione, procedure di controllo che l’utente ha a sua disposizione.
 
-    Individua e monitora gli standard di qualità e guida i servizi verso la soddisfazione dei bisogni degli utenti.
+Individua e monitora gli standard di qualità e guida i servizi verso la soddisfazione dei bisogni degli utenti.
 
-    La Carta dei servizi, costituisce lo strumento attraverso cui il Museo, inteso come "istituzione permanente, senza scopo di lucro, al servizio della società e del suo sviluppo aperta al pubblico” comunica con gli utenti e si confronta con loro.
+La Carta dei servizi, costituisce lo strumento attraverso cui il Museo, inteso come "istituzione permanente, senza scopo di lucro, al servizio della società e del suo sviluppo aperta al pubblico” comunica con gli utenti e si confronta con loro.
 
 Il suo aggiornamento, a cura del Direttore del Sistema Museale Cittadino e previa approvazione della Giunta Comunale, è previsto con cadenza periodica e in caso di modificazione della normativa sugli standard dei servizi museali, del Codice dei Beni Culturali e del Paesaggio, di nuove esigenze e/o opportunità di servizio, di apertura di nuovi spazi museali.
 
@@ -31,7 +35,7 @@ Il suo aggiornamento, a cura del Direttore del Sistema Museale Cittadino e previ
 Riferimenti normativi
 =====================
 
-    Nell’elaborazione di questa Carta si sono tenuti in considerazione i principi enunciati nello Statuto dei Civici Musei approvato con delibera del Consiglio Comunale  del 12.03.1976 e ss. modifiche nonché nelle seguenti disposizioni di legge:
+Nell’elaborazione di questa Carta si sono tenuti in considerazione i principi enunciati nello Statuto dei Civici Musei approvato con delibera del Consiglio Comunale  del 12.03.1976 e ss. modifiche nonché nelle seguenti disposizioni di legge:
 
 * 1994. Direttiva del Presidente del Consiglio dei Ministri del 27 gennaio “Principi sull’erogazione dei servizi pubblici”;
 
@@ -53,9 +57,9 @@ Riferimenti normativi
 
 * 2006 – legge regionale n. 25 “Sviluppo della rete bibliotecaria regionale, tutela e valorizzazione delle biblioteche e valorizzazione del patrimonio archivistico”.
 
-    Le modifiche normative di questi	 riferimenti si intendono immediatamente recepite.
+Le modifiche normative di questi	 riferimenti si intendono immediatamente recepite.
 
-    La carta è inoltre ispirata al Codice di deontologia professionale ICOM-UNESCO (International Council of Museums) adottato dalla 15° assemblea generale dell'ICOM riunita a Buenos Aires, Argentina, il 4 novembre 1986.
+La carta è inoltre ispirata al Codice di deontologia professionale ICOM-UNESCO (International Council of Museums) adottato dalla 15° assemblea generale dell'ICOM riunita a Buenos Aires, Argentina, il 4 novembre 1986.
 
 .. _h171784c682a34773c79336f16616e6b:
 
@@ -66,31 +70,31 @@ La Carta dei servizi si ispira ai seguenti principi:
 
         #. Uguaglianza
 
-    Il Museo eroga i propri servizi senza distinzione alcuna di sesso, razza, lingua, religione, opinione politica e l’accesso ad essi è garantito a tutti i cittadini senza limitazioni di sorta. Il Museo garantisce l’accesso anche agli utenti diversamente abili attraverso la presenza di strutture adeguate.
+Il Museo eroga i propri servizi senza distinzione alcuna di sesso, razza, lingua, religione, opinione politica e l’accesso ad essi è garantito a tutti i cittadini senza limitazioni di sorta. Il Museo garantisce l’accesso anche agli utenti diversamente abili attraverso la presenza di strutture adeguate.
 
         #. Continuità
 
-    I servizi sono erogati con continuità e regolarità, con le modalità e negli orari stabiliti. Eventuali interruzioni dei servizi sono tempestivamente comunicate adottando tutte le misure necessarie a ridurre il disagio degli utenti
+I servizi sono erogati con continuità e regolarità, con le modalità e negli orari stabiliti. Eventuali interruzioni dei servizi sono tempestivamente comunicate adottando tutte le misure necessarie a ridurre il disagio degli utenti
 
         #. Partecipazione
 
-    Il Museo promuove la partecipazione degli utenti, singoli o associati, al fine di favorire la loro collaborazione al miglioramento della qualità dei servizi, individuando modi e forme attraverso cui essi possono esprimere e comunicare suggerimenti, osservazioni, richieste e reclami.
+Il Museo promuove la partecipazione degli utenti, singoli o associati, al fine di favorire la loro collaborazione al miglioramento della qualità dei servizi, individuando modi e forme attraverso cui essi possono esprimere e comunicare suggerimenti, osservazioni, richieste e reclami.
 
         #. Sicurezza e riservatezza
 
-    Il Museo garantisce la conformità dei servizi erogati alla normativa vigente in materia di sicurezza e nel pieno rispetto delle disposizioni di legge per la tutela della privacy.
+Il Museo garantisce la conformità dei servizi erogati alla normativa vigente in materia di sicurezza e nel pieno rispetto delle disposizioni di legge per la tutela della privacy.
 
-    I dati personali dell'utente vengono utilizzati esclusivamente per le finalità di carattere istituzionale e non vengono trattati da personale non autorizzato né ceduti o comunque comunicati e/o diffusi a terzi.
+I dati personali dell'utente vengono utilizzati esclusivamente per le finalità di carattere istituzionale e non vengono trattati da personale non autorizzato né ceduti o comunque comunicati e/o diffusi a terzi.
 
         #. Disponibilità e chiarezza
 
-    Il personale incaricato ispira il suo comportamento nei confronti del pubblico a presupposti di gentilezza, cortesia e collaborazione e al principio della semplificazione delle procedure burocratiche. Gli operatori si impegnano ad erogare i servizi in modo chiaro e comprensibile, utilizzando un linguaggio facile e accessibile a tutti gli utenti. Il personale è tenuto a qualificarsi con il proprio nome nei rapporti con gli utenti, anche nel caso di comunicazioni telefoniche ed epistolari (ordinarie ed elettroniche).
+Il personale incaricato ispira il suo comportamento nei confronti del pubblico a presupposti di gentilezza, cortesia e collaborazione e al principio della semplificazione delle procedure burocratiche. Gli operatori si impegnano ad erogare i servizi in modo chiaro e comprensibile, utilizzando un linguaggio facile e accessibile a tutti gli utenti. Il personale è tenuto a qualificarsi con il proprio nome nei rapporti con gli utenti, anche nel caso di comunicazioni telefoniche ed epistolari (ordinarie ed elettroniche).
 
         #. Qualità dei servizi
 
-    Il Museo adegua il proprio ordinamento e funzionamento agli standard e obiettivi di qualità previsti dal Decreto Ministeriale del 10 maggio 2001 e dalla normativa regionale.
+Il Museo adegua il proprio ordinamento e funzionamento agli standard e obiettivi di qualità previsti dal Decreto Ministeriale del 10 maggio 2001 e dalla normativa regionale.
 
-    Il Museo eroga i servizi secondo criteri di efficacia ed efficienza, adottando opportuni indicatori per valutare la qualità dei servizi erogati.
+Il Museo eroga i servizi secondo criteri di efficacia ed efficienza, adottando opportuni indicatori per valutare la qualità dei servizi erogati.
 
 In particolare:
 
@@ -255,13 +259,13 @@ Promozione e comunicazione
 Punti di accesso, recapiti e orari
 ==================================
 
-    I Civici Musei e Gallerie di Storia e Arte del Comune di Udine sono un complesso museale di proprietà del Comune.
+I Civici Musei e Gallerie di Storia e Arte del Comune di Udine sono un complesso museale di proprietà del Comune.
 
-    Istituiti nel 1865 ed aperti al pubblico nel 1866 presso il Palazzo Bartolini, furono trasferiti nell'attuale sede del Castello nel 1906. Sono classificati nella categoria dei Musei multipli ai termini della Legge regionale n.60 del 18.11.1976.
+Istituiti nel 1865 ed aperti al pubblico nel 1866 presso il Palazzo Bartolini, furono trasferiti nell'attuale sede del Castello nel 1906. Sono classificati nella categoria dei Musei multipli ai termini della Legge regionale n.60 del 18.11.1976.
 
 Fanno parte dei Civici Musei di Udine:
 
-    \ |STYLE0|\  (Galleria d'Arte Antica- Galleria dei disegni e delle stampe - Museo friulano della fotografia - \ |STYLE1|\  – tel. 0432/414719 - fax 0432/271982– email: \ |LINK1|\ ), che include:
+\ |STYLE0|\  (Galleria d'Arte Antica- Galleria dei disegni e delle stampe - Museo friulano della fotografia - \ |STYLE1|\  – tel. 0432/414719 - fax 0432/271982– email: \ |LINK1|\ ), che include:
 
     #. \ |STYLE2|\ , - situata al piano nobile del Castello ai lati del salone del Parlamento, la pinacoteca raccoglie in 14 sale dipinti provenienti da chiese, case e palazzi della regione, così da permettere al visitatore di seguire con sufficiente agevolezza l'evoluzione dell'arte nella zona, specie nel periodo dal XV al XVIII secolo. Tra gli artisti presenti si segnalano: Caravaggio, Giambattista Tiepolo, Pomponio Amalteo, Nicolò Grassi, Antonio Carneo, Pellegrino da S. Daniele, il Pordenone, Andrea Bellunello; 
 
@@ -305,19 +309,19 @@ Inoltre, le sedi espositive:
 
 Il Museo è dotato di un punto informazioni e prenotazioni.
 
-    Con gli operatori è possibile comunicare per telefono, fax, posta elettronica.
+Con gli operatori è possibile comunicare per telefono, fax, posta elettronica.
 
-    Si possono ottenere altre informazioni di base rivolgendosi al Puntoinforma (via Savorgnana, 12, tel. 0432.414717 – 414718, puntoinforma@comune.udine.it) o alle Biglietterie delle sedi museali, consultando il sito del Comune e dei singoli Musei su \ |LINK4|\  (sezione Musei), il sito della rete museale provinciale (\ |LINK5|\ , sezione “Rete museale provincia di Udine”) e del Turismo regionale (\ |LINK6|\  sezione Musei) nonché tramite materiale cartaceo informativo .
+Si possono ottenere altre informazioni di base rivolgendosi al Puntoinforma (via Savorgnana, 12, tel. 0432.414717 – 414718, puntoinforma@comune.udine.it) o alle Biglietterie delle sedi museali, consultando il sito del Comune e dei singoli Musei su \ |LINK4|\  (sezione Musei), il sito della rete museale provinciale (\ |LINK5|\ , sezione “Rete museale provincia di Udine”) e del Turismo regionale (\ |LINK6|\  sezione Musei) nonché tramite materiale cartaceo informativo .
 
-    L’orario di apertura al pubblico è stabilito dalla direzione dei Civici Musei, nel rispetto degli standard vigenti, e viene adeguatamente pubblicizzato con gli stessi mezzi di cui sopra.
+L’orario di apertura al pubblico è stabilito dalla direzione dei Civici Musei, nel rispetto degli standard vigenti, e viene adeguatamente pubblicizzato con gli stessi mezzi di cui sopra.
 
-    L’accesso alle Sedi museali è subordinato al pagamento del biglietto di ingresso, con eventuali riduzioni, secondo le determinazioni adottate dalla Giunta Comunale.
+L’accesso alle Sedi museali è subordinato al pagamento del biglietto di ingresso, con eventuali riduzioni, secondo le determinazioni adottate dalla Giunta Comunale.
 
-    Il costo dei biglietti, dei servizi e dei diritti sono fissati in appositi tariffari esposti al pubblico e visionabili su \ |LINK7|\  alla sezione \ |LINK8|\ , Tariffe.
+Il costo dei biglietti, dei servizi e dei diritti sono fissati in appositi tariffari esposti al pubblico e visionabili su \ |LINK7|\  alla sezione \ |LINK8|\ , Tariffe.
 
 Alcune esposizioni possono essere gratuite.
 
-    Per garantire una regolare programmazione delle visite la prenotazione è obbligatoria nel caso di scolaresche e gruppi, sia quando è richiesto l’ausilio di una guida sia nei casi in cui tale servizio non sia richiesto; la prenotazione può essere effettuata chiamando la Biglietteria dei Civici Musei (tel. 0432/271591).
+Per garantire una regolare programmazione delle visite la prenotazione è obbligatoria nel caso di scolaresche e gruppi, sia quando è richiesto l’ausilio di una guida sia nei casi in cui tale servizio non sia richiesto; la prenotazione può essere effettuata chiamando la Biglietteria dei Civici Musei (tel. 0432/271591).
 
 È anche obbligatoria la prenotazione per le attività e laboratori didattici.
 
@@ -338,11 +342,11 @@ STANDARD DI QUALITA’ E DIRITTO DI RIMBORSO
 Gli standard di qualità
 =======================
 
-    Gli standard di qualità sono i livelli di qualità dei servizi esistenti presso ciascuna delle sedi museali.
+Gli standard di qualità sono i livelli di qualità dei servizi esistenti presso ciascuna delle sedi museali.
 
-    Al fine di consentire la verifica della qualità dei servizi erogati la Carta fissa i valori standard di riferimento garantiti oltre agli indicatori, ossia i valori che il Museo s’impegna a realizzare.
+Al fine di consentire la verifica della qualità dei servizi erogati la Carta fissa i valori standard di riferimento garantiti oltre agli indicatori, ossia i valori che il Museo s’impegna a realizzare.
 
-    Gli standard di qualità, attuali e programmati, sono aggiornati ogni tre anni.
+Gli standard di qualità, attuali e programmati, sono aggiornati ogni tre anni.
 
 .. _h4a1c60561c5b804b7c7c3242a65762:
 
@@ -575,9 +579,9 @@ RAPPORTI CON I CITTADINI
 Reclami e suggerimenti
 ======================
 
-    Reclami, proposte e suggerimenti possono essere orali, scritti, telefonici o trasmessi tramite fax o posta elettronica ai recapiti indicati nella sezione “Punti di accesso, recapiti, orari” o a: Comune di Udine
+Reclami, proposte e suggerimenti possono essere orali, scritti, telefonici o trasmessi tramite fax o posta elettronica ai recapiti indicati nella sezione “Punti di accesso, recapiti, orari” o a: Comune di Udine
 
-                                Servizio Civici Musei via Lionello, 1
+Servizio Civici Musei via Lionello, 1
 
 33100 UDINE
 
@@ -585,19 +589,19 @@ Reclami e suggerimenti
 
 URP - Ufficio Relazioni con il Pubblico
 
-                Udine, via Lionello n. 1 - secondo piano, lato sud Tel. 0432/271616-271621 Fax 0432/271355
+Udine, via Lionello n. 1 - secondo piano, lato sud Tel. 0432/271616-271621 Fax 0432/271355
 
 e-mail: \ |LINK9|\ 
 
 I reclami devono contenere generalità, indirizzo e recapito del proponente e debbono essere rivolti al Direttore.
 
-    Su richiesta, il Museo garantisce una risposta entro un massimo di 30 giorni lavorativi.
+Su richiesta, il Museo garantisce una risposta entro un massimo di 30 giorni lavorativi.
 
-    L'insieme dei reclami sarà oggetto di un rapporto annuale del Direttore da sottoporre alle valutazioni della Giunta, che esaminerà anche le proposte di modifica della presente Carta.
+L'insieme dei reclami sarà oggetto di un rapporto annuale del Direttore da sottoporre alle valutazioni della Giunta, che esaminerà anche le proposte di modifica della presente Carta.
 
-    Per comunicare osservazioni e suggerimenti o sporgere reclami è anche disponibile il registro dei visitatori posto presso le biglietterie delle sedi museali.
+Per comunicare osservazioni e suggerimenti o sporgere reclami è anche disponibile il registro dei visitatori posto presso le biglietterie delle sedi museali.
 
-    Il Direttore e il personale tecnico, scientifico, amministrativo del Museo sono a disposizione del pubblico su appuntamento .
+Il Direttore e il personale tecnico, scientifico, amministrativo del Museo sono a disposizione del pubblico su appuntamento .
 
 
 .. Skipped: unable to convert element of type UNSUPPORTED
@@ -607,9 +611,9 @@ I reclami devono contenere generalità, indirizzo e recapito del proponente e de
 Indagini di soddisfazione
 =========================
 
-    Il Museo rileva l'apprezzamento e la soddisfazione degli utenti in particolare tramite indagini–questionari raccolta di reclami e suggerimenti, anche tramite la predisposizione di un’apposita cassetta al Museo (oltre che e a mezzo web).
+Il Museo rileva l'apprezzamento e la soddisfazione degli utenti in particolare tramite indagini–questionari raccolta di reclami e suggerimenti, anche tramite la predisposizione di un’apposita cassetta al Museo (oltre che e a mezzo web).
 
-    Grazie alle risultanze delle analisi in questione (affluenza del pubblico; questionari; reclami e suggerimenti), l’Ente provvede ad una corretta informazione sulle politiche attuate e sulla ricaduta sociale di tali politiche.
+Grazie alle risultanze delle analisi in questione (affluenza del pubblico; questionari; reclami e suggerimenti), l’Ente provvede ad una corretta informazione sulle politiche attuate e sulla ricaduta sociale di tali politiche.
 
 +--------------------------+----------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------+
 |ANALISI DI IMPATTO SOCIALE|INDICATORE                                                                              |STANDARD                                                                                          |
@@ -625,14 +629,14 @@ Indagini di soddisfazione
 
 Il processo partecipativo e di confronto realizzato dal Museo è finalizzato a ridurre gli scostamenti rispetto agli standard prefissati e a prevenire ogni possibile disservizio, grazie ad un atteggiamento collaborativo e propositivo da parte degli utenti.
 
-    Per rafforzare e dare concretezza ai diritti dei cittadini, il Museo si riserva di disporre forme ulteriori e meccanismi di tutela attivabili in caso di mancato rispetto dei principi contenuti nella presente Carta.
+Per rafforzare e dare concretezza ai diritti dei cittadini, il Museo si riserva di disporre forme ulteriori e meccanismi di tutela attivabili in caso di mancato rispetto dei principi contenuti nella presente Carta.
 
 .. _h353e970185b3a337b2d33782579505a:
 
 Diritti e doveri degli utenti
 =============================
 
-    Tutti i cittadini possono accedere al Museo e usufruire dei suoi servizi secondo le modalità previste dal regolamento e riprese nella presente Carta.
+Tutti i cittadini possono accedere al Museo e usufruire dei suoi servizi secondo le modalità previste dal regolamento e riprese nella presente Carta.
 
 Gli utenti hanno diritto a:
 
@@ -640,11 +644,11 @@ Gli utenti hanno diritto a:
 
 * comunicare con il Museo attraverso tutti i mezzi messi a disposizione a questo scopo
 
-    Gli utenti del museo sono tenuti a osservare le norme di buona educazione e di corretto comportamento nei confronti degli altri utenti e del personale del Museo.
+Gli utenti del museo sono tenuti a osservare le norme di buona educazione e di corretto comportamento nei confronti degli altri utenti e del personale del Museo.
 
-    I comportamenti in contrasto con tali regole e con i divieti indicati all’ingresso e con le indicazioni fornite dal personale possono essere anche motivo di allontanamento dalla struttura museale.
+I comportamenti in contrasto con tali regole e con i divieti indicati all’ingresso e con le indicazioni fornite dal personale possono essere anche motivo di allontanamento dalla struttura museale.
 
-    I visitatori sono tenuti a lasciare all’ingresso del Museo bagagli e a depositare negli appositi spazi borse voluminose e zaini. 
+I visitatori sono tenuti a lasciare all’ingresso del Museo bagagli e a depositare negli appositi spazi borse voluminose e zaini. 
 
 Nel Museo è inoltre vietato:
 
