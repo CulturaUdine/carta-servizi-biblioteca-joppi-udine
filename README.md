@@ -1,14 +1,10 @@
-Regolamento delle attività sportive, della Piscina e dello Stadio delle Palme del Comune di Palermo
+Carta Servizi Civici Musei del Comune di Udine
 ==================================================
 
-**Fonte**:
-
-https://www.comune.palermo.it/js/server/normative/_24122012094324.pdf 
-https://www.comune.palermo.it/js/server/normative/_24122012094325.pdf 
-https://www.comune.palermo.it/js/server/normative/_24122012094323.pdf
 
 
-Questo repository contiene la documentazione relativa alla [Regolamento delle attività sportive, della Piscina e dello Stadio delle Palme del Comune di Palermo](http://regolamento-attivita-sportive-comune-palermo.readthedocs.io). 
+
+Questo repository contiene la documentazione relativa alla [Carta Servizi Civici Musei del Comune di Udine](http://cartaservizicivici-musei-comune-udine.readthedocs.io). 
 
 
 Link
