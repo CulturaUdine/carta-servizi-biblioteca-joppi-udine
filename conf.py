@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 # -- PROJECT Variables ----------------------------------------------------
-settings_project_name = "Carta servizicivici musei del comune di Udine"
+settings_project_name = "Carta servizi civici musei del comune di Udine"
 settings_copyright_copyleft = 'comune Palermo'
 settings_editor_name = 'Marina Galluzzo'
 settings_doc_version = 'version: latest'
