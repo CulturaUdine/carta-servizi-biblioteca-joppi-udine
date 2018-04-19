@@ -1,18 +1,17 @@
 
+.. _h61183c794a9323395c24564586c29:
+
+\ |IMG1|\ Carta Servizi Civici dei Musei del Comune di Udine
+############################################################
+
+FINALITÀ, MISSIONE E CARATTERISTICHE DEL SERVIZIO
+
+
 .. toctree::  
     :maxdepth: 3
     :caption: Indice
 
     index
-
-\ |IMG1|\ 
-
-.. _h7e2866711d3c66273432356272576d5b:
-
-Carta Servizi Civici Musei del Comune di Udine
-##############################################
-
-FINALITÀ, MISSIONE E CARATTERISTICHE DEL SERVIZIO
 
 .. _h2c1d74277104e41780968148427e:
 
@@ -22,7 +21,7 @@ FINALITÀ, MISSIONE E CARATTERISTICHE DEL SERVIZIO
 .. _h3a6f6b434d3825283a7d9c4c2b1c1f:
 
 Che cos’è la carta dei servizi
-==============================
+******************************
 
 La Carta è lo strumento fondamentale con il quale si attua il principio di trasparenza, cui è tenuta la Pubblica Amministrazione in base alla Costituzione Italiana e a normative successive.
 
@@ -41,25 +40,25 @@ Riferimenti normativi
 
 Nell’elaborazione di questa Carta si sono tenuti in considerazione i principi enunciati nello Statuto dei Civici Musei approvato con delibera del Consiglio Comunale  del 12.03.1976 e ss. modifiche nonché nelle seguenti disposizioni di legge:
 
-1994, Direttiva del Presidente del Consiglio dei Ministri del 27 gennaio "Principi sull’erogazione dei servizi pubblici";
+* 1994, Direttiva del Presidente del Consiglio dei Ministri del 27 gennaio "Principi sull’erogazione dei servizi pubblici";
 
-1994, Direttiva del Presidente del Consiglio dei Ministri  dell’11 ottobre "Principi per l’istituzione ed il funzionamento degli uffici per le relazioni con il pubblico";
+* 1994, Direttiva del Presidente del Consiglio dei Ministri  dell’11 ottobre "Principi per l’istituzione ed il funzionamento degli uffici per le relazioni con il pubblico";
 
-1998, Atto di indirizzo sui criteri tecnico-scientifici e sugli standard di funzionamento e sviluppo dei musei, art. 150, comma 6, D.L. n. 112;
+* 1998, Atto di indirizzo sui criteri tecnico-scientifici e sugli standard di funzionamento e sviluppo dei musei, art. 150, comma 6, D.L. n. 112;
 
-1999, Decreto legislativo n. 286, art. 11;
+* 1999, Decreto legislativo n. 286, art. 11;
 
-2000, Legge n. 328 "Legge quadro per la realizzazione del sistema integrato dei servizi sociali" prevede che ciascun ente erogatore di Servizi adotti una Carta dei Servizi dandone adeguata pubblicità agli utenti;
+* 2000, Legge n. 328 "Legge quadro per la realizzazione del sistema integrato dei servizi sociali" prevede che ciascun ente erogatore di Servizi adotti una Carta dei Servizi dandone adeguata pubblicità agli utenti;
 
-2000, Legge n. 150 del 7 giugno relativa alla disciplina delle attività di informazione e di comunicazione delle pubbliche amministrazioni;
+* 2000, Legge n. 150 del 7 giugno relativa alla disciplina delle attività di informazione e di comunicazione delle pubbliche amministrazioni;
 
-2001, Decreto del Ministero per i Beni e le Attività culturali del
+* 2001, Decreto del Ministero per i Beni e le Attività culturali del
 
-10 maggio "Atto di indirizzo sui criteri tecnico-scientifici  e sugli standard di funzionamento e sviluppo dei musei"; 
+* 10 maggio "Atto di indirizzo sui criteri tecnico-scientifici  e sugli standard di funzionamento e sviluppo dei musei"; 
 
-2004, Codice dei Beni Culturali e del Paesaggio, approvato con Decreto legislativo del 22 gennaio, n. 42;
+* 2004, Codice dei Beni Culturali e del Paesaggio, approvato con Decreto legislativo del 22 gennaio, n. 42;
 
-2006, Legge regionale n. 25 "Sviluppo della rete bibliotecaria regionale, tutela e valorizzazione delle biblioteche e valorizzazione del patrimonio archivistico".
+* 2006, Legge regionale n. 25 "Sviluppo della rete bibliotecaria regionale, tutela e valorizzazione delle biblioteche e valorizzazione del patrimonio archivistico".
 
 Le modifiche normative di questi	 riferimenti si intendono immediatamente recepite.
 
@@ -635,9 +634,9 @@ Nel Museo è inoltre vietato:
     <thead>
     <tr><th style="width:24%;background-color:#d9d9d9;padding-left:-0.25px;border:solid 0.5px #999999"><p style="color:#000000;font-family:Calibri;margin-top:1.75"><span  style="color:#000000;font-family:Calibri">SERVIZIO</span></p></th><th style="width:29%;background-color:#d9d9d9;color:#000000;padding-left:-0.25px;border:solid 0.5px #999999"><p style="color:#000000;font-family:Calibri;margin-top:1.75"><span  style="color:#000000;font-family:Calibri">INDICATORE</span></p></th><th style="width:46%;background-color:#d9d9d9;color:#000000;padding-left:-0.25px;border:solid 0.5px #999999"><p style="color:#000000;font-family:Calibri;margin-top:1.75"><span  style="color:#000000;font-family:Calibri">STANDARD</span></p></th></tr>
     </thead><tbody>
-    <tr><td style="color:#000000;padding-left:-0.25px;border:solid 0.5px #999999"><p style="color:#000000;font-family:Calibri"><span  style="color:#000000;font-family:Calibri">Eventi culturali</span></p></td><td style="color:#000000;padding-left:-0.25px;border:solid 0.5px #999999"><p style="color:#000000;font-family:Calibri"><span  style="color:#000000;font-family:Calibri">Programmazione di eventi culturali</span></p></td><td style="color:#000000;padding-left:-0.25px;border:solid 0.5px #999999"><ul style="list-style:disc;list-style-image:inherit;padding:0px 40px;margin:initial"><li style="list-style:inherit;list-style-image:inherit"><span  style="color:#000000;font-family:Calibri">Incremento di eventi culturali, artistici e multimediali organizzati con cadenza quindicinale, anche in collaborazione con operatori pubblici e privati.</span></li></ul></td></tr>
-    <tr><td rowspan="2" style="color:#000000;padding-left:-0.25px;border:solid 0.5px #999999"><p style="color:#000000;font-family:Calibri"><span  style="color:#000000;font-family:Calibri">Informazione e comunicazione al pubblico</span></p></td><td style="color:#000000;padding-left:-0.25px;border:solid 0.5px #999999"><p style="color:#000000;font-family:Calibri"><span  style="color:#000000;font-family:Calibri">Comunicato stampa per eventi</span></p><p style="color:#000000;font-family:Calibri"><span  style="color:#000000;font-family:Calibri">specifici</span></p></td><td style="color:#000000;padding-left:-0.25px;border:solid 0.5px #999999"><ul style="list-style:disc;list-style-image:inherit;padding:0px 40px;margin:initial"><li style="list-style:inherit;list-style-image:inherit"><span  style="color:#000000;font-family:Calibri">Tempestiva (minimo quattro giorni prima dell'evento)</span></li></ul></td></tr>
-    <tr><td style="color:#000000;padding-left:-0.25px;border:solid 0.5px #999999"><p style="color:#000000;font-family:Calibri"><span  style="color:#000000;font-family:Calibri">Divulgazione mediante sito del Comune</span></p></td><td style="color:#000000;padding-left:-0.25px;border:solid 0.5px #999999"><ul style="list-style:disc;list-style-image:inherit;padding:0px 40px;margin:initial"><li style="list-style:inherit;list-style-image:inherit"><span  style="color:#000000;font-family:Calibri">Aggiornamento tempestivo delle news e periodicamente delle altre pagine del sito.</span></li><li style="list-style:inherit;list-style-image:inherit"><span  style="color:#000000;font-family:Calibri">Incremento del sito web</span></li></ul></td></tr>
+    <tr><td style="color:#000000;padding-left:-0.25px;border:solid 0.5px #999999"><p style="color:#000000;font-family:Calibri"><span  style="color:#000000;font-family:Calibri">Eventi culturali</span></p></td><td style="color:#000000;padding-left:-0.25px;border:solid 0.5px #999999"><ul style="list-style:disc;list-style-image:inherit;padding:0px 40px;margin:initial"><li style="list-style:inherit;list-style-image:inherit"><span  style="color:#000000;font-family:Calibri">Programmazione di eventi culturali</span></li></ul></td><td style="color:#000000;padding-left:-0.25px;border:solid 0.5px #999999"><ul style="list-style:disc;list-style-image:inherit;padding:0px 40px;margin:initial"><li style="list-style:inherit;list-style-image:inherit"><span  style="color:#000000;font-family:Calibri">Incremento di eventi culturali, artistici e multimediali organizzati con cadenza quindicinale, anche in collaborazione con operatori pubblici e privati.</span></li></ul></td></tr>
+    <tr><td rowspan="2" style="color:#000000;padding-left:-0.25px;border:solid 0.5px #999999"><p style="color:#000000;font-family:Calibri"><span  style="color:#000000;font-family:Calibri">Informazione e comunicazione al pubblico</span></p></td><td style="color:#000000;padding-left:-0.25px;border:solid 0.5px #999999"><ul style="list-style:disc;list-style-image:inherit;padding:0px 40px;margin:initial"><li style="list-style:inherit;list-style-image:inherit"><span  style="color:#000000;font-family:Calibri">Comunicato stampa per eventi specifici</span></li></ul></td><td style="color:#000000;padding-left:-0.25px;border:solid 0.5px #999999"><ul style="list-style:disc;list-style-image:inherit;padding:0px 40px;margin:initial"><li style="list-style:inherit;list-style-image:inherit"><span  style="color:#000000;font-family:Calibri">Tempestiva (minimo quattro giorni prima dell'evento)</span></li></ul></td></tr>
+    <tr><td style="color:#000000;padding-left:-0.25px;border:solid 0.5px #999999"><ul style="list-style:disc;list-style-image:inherit;padding:0px 40px;margin:initial"><li style="list-style:inherit;list-style-image:inherit"><span  style="color:#000000;font-family:Calibri">Divulgazione mediante sito del Comune</span></li></ul></td><td style="color:#000000;padding-left:-0.25px;border:solid 0.5px #999999"><ul style="list-style:disc;list-style-image:inherit;padding:0px 40px;margin:initial"><li style="list-style:inherit;list-style-image:inherit"><span  style="color:#000000;font-family:Calibri">Aggiornamento tempestivo delle news e periodicamente delle altre pagine del sito.</span></li><li style="list-style:inherit;list-style-image:inherit"><span  style="color:#000000;font-family:Calibri">Incremento del sito web</span></li></ul></td></tr>
     </tbody></table>
 
 .. |REPLACE14| raw:: html
@@ -646,8 +645,8 @@ Nel Museo è inoltre vietato:
     <thead>
     <tr><th style="width:31%;background-color:#d9d9d9;padding-top:0px;padding-bottom:0px;padding-left:-0.25px;padding-right:0px;border:solid 0.5px #999999"><p style="font-family:Calibri;margin-bottom:6;margin-top:2.1"><span  style="font-family:Calibri">ANALISI DI IMPATTO SOCIALE</span></p></th><th style="width:26%;background-color:#d9d9d9;padding-top:0px;padding-bottom:0px;padding-left:-0.25px;padding-right:0px;border:solid 0.5px #999999"><p style="font-family:Calibri;margin-bottom:6;margin-top:0.05"><span  style="font-family:Calibri">INDICATORE</span></p></th><th style="width:44%;background-color:#d9d9d9;padding-top:0px;padding-bottom:0px;padding-left:-0.25px;padding-right:0px;border:solid 0.5px #999999"><p style="font-family:Calibri;margin-bottom:6;margin-top:0.05"><span  style="font-family:Calibri">STANDARD</span></p></th></tr>
     </thead><tbody>
-    <tr><td style="padding-top:0px;padding-bottom:0px;padding-left:-0.25px;padding-right:0px;border:solid 0.5px #999999"><p style="font-family:Calibri;margin-bottom:6"><span  style="font-family:Calibri">Monitoraggio delle visite</span></p></td><td style="padding-top:0px;padding-bottom:0px;padding-left:-0.25px;padding-right:0px;border:solid 0.5px #999999"><p style="font-family:Calibri;margin-bottom:6"><span  style="font-family:Calibri">Rilevazione oggettiva del numero dei visitatori</span></p></td><td style="padding-top:0px;padding-bottom:0px;padding-left:-0.25px;padding-right:0px;border:solid 0.5px #999999"><ul style="list-style:disc;list-style-image:inherit;padding:0px 40px;margin:initial"><li style="list-style:inherit;list-style-image:inherit"><span  style="font-family:Calibri">Attivato sistema oggettivo di rilevamento (bigliettazione elettronica anche per ingressi gratuiti)</span></li></ul></td></tr>
-    <tr><td style="padding-top:0px;padding-bottom:0px;padding-left:-0.25px;padding-right:0px;border:solid 0.5px #999999"><p style="font-family:Calibri;margin-bottom:6"><span  style="font-family:Calibri">Monitoraggio della qualità</span></p></td><td style="padding-top:0px;padding-bottom:0px;padding-left:-0.25px;padding-right:0px;border:solid 0.5px #999999"><p style="font-family:Calibri;margin-bottom:6"><span  style="font-family:Calibri">Rilevazione gradimento dei servizi, con riferimento agli standard (reclami; questionari)</span></p></td><td style="padding-top:0px;padding-bottom:0px;padding-left:-0.25px;padding-right:0px;border:solid 0.5px #999999"><ul style="list-style:disc;list-style-image:inherit;padding:0px 40px;margin:initial"><li style="list-style:inherit;list-style-image:inherit"><span  style="font-family:Calibri">Esame dei reclami pervenuti, con risposta inviata entro 30 giorni lavorativi (se richiesta);</span></li><li style="list-style:inherit;list-style-image:inherit"><span  style="font-family:Calibri">Distribuzione periodica di questionari (anche in rete), almeno una volta all’anno;</span></li><li style="list-style:inherit;list-style-image:inherit"><span  style="font-family:Calibri">Analisi delle risultanze</span></li></ul></td></tr>
+    <tr><td style="padding-top:0px;padding-bottom:0px;padding-left:-0.25px;padding-right:0px;border:solid 0.5px #999999"><p style="font-family:Calibri;margin-bottom:6"><span  style="font-family:Calibri">Monitoraggio delle visite</span></p></td><td style="padding-top:0px;padding-bottom:0px;padding-left:-0.25px;padding-right:0px;border:solid 0.5px #999999"><ul style="list-style:disc;list-style-image:inherit;padding:0px 40px;margin:initial"><li style="list-style:inherit;list-style-image:inherit"><span  style="font-family:Calibri">Rilevazione oggettiva del numero dei visitatori</span></li></ul></td><td style="padding-top:0px;padding-bottom:0px;padding-left:-0.25px;padding-right:0px;border:solid 0.5px #999999"><ul style="list-style:disc;list-style-image:inherit;padding:0px 40px;margin:initial"><li style="list-style:inherit;list-style-image:inherit"><span  style="font-family:Calibri">Attivato sistema oggettivo di rilevamento (bigliettazione elettronica anche per ingressi gratuiti)</span></li></ul></td></tr>
+    <tr><td style="padding-top:0px;padding-bottom:0px;padding-left:-0.25px;padding-right:0px;border:solid 0.5px #999999"><p style="font-family:Calibri;margin-bottom:6"><span  style="font-family:Calibri">Monitoraggio della qualità</span></p></td><td style="padding-top:0px;padding-bottom:0px;padding-left:-0.25px;padding-right:0px;border:solid 0.5px #999999"><ul style="list-style:disc;list-style-image:inherit;padding:0px 40px;margin:initial"><li style="list-style:inherit;list-style-image:inherit"><span  style="font-family:Calibri">Rilevazione gradimento dei servizi, con riferimento agli standard (reclami; questionari)</span></li></ul></td><td style="padding-top:0px;padding-bottom:0px;padding-left:-0.25px;padding-right:0px;border:solid 0.5px #999999"><ul style="list-style:disc;list-style-image:inherit;padding:0px 40px;margin:initial"><li style="list-style:inherit;list-style-image:inherit"><span  style="font-family:Calibri">Esame dei reclami pervenuti, con risposta inviata entro 30 giorni lavorativi (se richiesta);</span></li><li style="list-style:inherit;list-style-image:inherit"><span  style="font-family:Calibri">Distribuzione periodica di questionari (anche in rete), almeno una volta all’anno;</span></li><li style="list-style:inherit;list-style-image:inherit"><span  style="font-family:Calibri">Analisi delle risultanze</span></li></ul></td></tr>
     </tbody></table>
 
 
