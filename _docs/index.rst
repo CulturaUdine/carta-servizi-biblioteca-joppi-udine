@@ -28,7 +28,7 @@ Il suo aggiornamento, a cura del Direttore del Sistema Museale Cittadino e previ
 
 .. _h2f2f59731d553b2c3711267a4e4138:
 
-Riferimenti normativi
+Riferimenti normativi 
 =====================
 
     Nell’elaborazione di questa Carta si sono tenuti in considerazione i principi enunciati nello Statuto dei Civici Musei approvato con delibera del Consiglio Comunale  del 12.03.1976 e ss. modifiche nonché nelle seguenti disposizioni di legge:
