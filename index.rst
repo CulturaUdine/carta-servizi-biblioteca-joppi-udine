@@ -1,10 +1,11 @@
+\ |IMG1|\ 
 
-.. _h61183c794a9323395c24564586c29:
+.. _h76687f6469492f66d5665585d703e:
 
-\ |IMG1|\ Carta Servizi Civici dei Musei del Comune di Udine
-############################################################
+Carta Servizi Civici dei Musei del Comune di Udine
+##################################################
 
-FINALITÀ, MISSIONE E CARATTERISTICHE DEL SERVIZIO
+Finalità, missione e caratteristiche del servizio
 
 
 .. toctree::  
@@ -269,10 +270,15 @@ Il Dirigente del Servizio è il dott. Marco Biscione.
 
 
 
-.. _h4541134a78796c1b767c612a74a18:
+.. _h615946392530c2a761c264a237144c:
 
-STANDARD DI QUALITA’ E DIRITTO DI RIMBORSO
-******************************************
+Standard di qualità e diritto di rimborso
+*****************************************
+
+.. _h2c1d74277104e41780968148427e:
+
+
+
 
 .. _h104e53a5f205f2e402d17512e466715:
 
@@ -285,9 +291,9 @@ Al fine di consentire la verifica della qualità dei servizi erogati la Carta fi
 
 Gli standard di qualità, attuali e programmati, sono aggiornati ogni tre anni.
 
-.. _h4a1c60561c5b804b7c7c3242a65762:
+.. _h64303f3b145c6171f91d5127651762:
 
-STATUS GIURIDICO
+Status giuridico
 ****************
 
 
@@ -371,9 +377,9 @@ Servizi al pubblico
 
 
 
-.. _h965177d492d167633d7f2c2d261e45:
+.. _h6016506a1d715f5b225a704f4297f2:
 
-RAPPORTI CON I CITTADINI
+Rapporti con i cittadini
 ************************
 
 .. _h797c1958193877537630b365e2a6b:
