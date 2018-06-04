@@ -4,7 +4,7 @@ Carta Servizi Civici Musei del Comune di Udine
 
 
 
-Questo repository contiene la documentazione relativa alla [Carta Servizi Civici Musei del Comune di Udine](http://cartaservizicivici-musei-comune-udine.readthedocs.io). 
+Questo repository contiene la documentazione relativa alla [Carta Servizi Civici Musei del Comune di Udine](http://carta-servizi-civici-musei-comune-udine.readthedocs.io). 
 
 
 Link
