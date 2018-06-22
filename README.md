@@ -1,16 +1,11 @@
-Carta Servizi Civici Musei del Comune di Udine
+Carta Servizi Biblioteca Joppi del Comune di Udine
 ==================================================
 
 
 
 
-Questo repository contiene la documentazione relativa alla [Carta Servizi Civici Musei del Comune di Udine](http://carta-servizi-civici-musei-comune-udine.readthedocs.io). 
+Questo repository contiene la documentazione relativa alla [Carta Servizi Biblioteca Joppi del Comune di Udine](https://carta-servizi-biblioteca-joppi-udine.readthedocs.io). 
 
-
-Link
-----
-
-Link alla [documentazione compilata su Docs Italia](https://github.com/italia/docs-italia-starter-kit/tree/master/repo-documento).
 
 
 Licenza
