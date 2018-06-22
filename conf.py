@@ -8,7 +8,7 @@ settings_editor_name = 'Marina Galluzzo'
 settings_doc_version = 'version: latest'
 settings_doc_release = 'version: latest'
 settings_basename = 'Carta servizi biblioteca Joppi comune di Udine'
-settings_file_name = 'index'
+settings_file_name = 'Carta servizi biblioteca Joppi comune di Udine'
 
 # -- No need to change below here
 
