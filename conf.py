@@ -2,12 +2,12 @@
 # -*- coding: utf-8 -*-
 
 # -- PROJECT Variables ----------------------------------------------------
-settings_project_name = "Carta servizi civici musei del comune di Udine"
-settings_copyright_copyleft = 'comune Palermo'
+settings_project_name = "Carta servizi biblioteca Joppi comune di Udine"
+settings_copyright_copyleft = 'comune Udine'
 settings_editor_name = 'Marina Galluzzo'
 settings_doc_version = 'version: latest'
 settings_doc_release = 'version: latest'
-settings_basename = 'Carta servizicivici musei del comune di Udine'
+settings_basename = 'Carta servizi biblioteca Joppi comune di Udine'
 settings_file_name = 'index'
 
 # -- No need to change below here
